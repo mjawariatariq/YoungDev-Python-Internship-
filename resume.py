@@ -45,5 +45,3 @@ st.write("""
 - Urdu (Native)  
 - Potwari (Fluent)  
 """)
-
-https://myresumeee.streamlit.app/
